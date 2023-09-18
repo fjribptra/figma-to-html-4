@@ -103,7 +103,7 @@ section.about-section {
     color: var(--text-color);
 }
 section.about-section .img-container img {
-    width: 400px;
+    width: 280px;
 }
 
 section.about-section .text-container {
