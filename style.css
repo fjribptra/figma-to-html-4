@@ -25,10 +25,15 @@ html[data-color-mode='dark'] {
 body{
     width: 100%;
     font-family: 'Nunito Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .full-container{
     background-color: var(--body-bg);
+    width: 100%;
+    max-width: 1200px;
 }
 
 nav{
