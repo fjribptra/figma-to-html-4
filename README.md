@@ -23,7 +23,7 @@ HTML, CSS, Javascript
 Clone the project
 
 ```bash
-  git clone https://github.com/Fajrieeeeee/fajrieee-figma-to-html-4.git
+  git clone https://github.com/Fajrieeeeee/figma-to-html-4.git
 ```
 
 
